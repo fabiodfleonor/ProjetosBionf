@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=sistema
+comment1.target=Menu(SistemaGestao)
+comment2.params=
+comment2.target=SistemaGestao\ getSistema()
+comment3.params=
+comment3.target=void\ exibirMenu()
+comment4.params=scanner
+comment4.target=void\ adicionarInvestigador(java.util.Scanner)
+comment5.params=scanner
+comment5.target=void\ adicionarEquipamento(java.util.Scanner)
+comment6.params=scanner
+comment6.target=void\ adicionarExperiencia(java.util.Scanner)
+comment7.params=scanner
+comment7.target=void\ pesquisarInvestigador(java.util.Scanner)
+comment8.params=scanner
+comment8.target=void\ pesquisarEquipamento(java.util.Scanner)
+comment9.params=scanner
+comment9.target=void\ pesquisarExperiencia(java.util.Scanner)
+numComments=10

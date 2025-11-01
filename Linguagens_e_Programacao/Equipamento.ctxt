@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Equipamento
+comment1.params=nome\ tipo\ dataUltimaCalibracao\ emFuncionamento
+comment1.target=Equipamento(java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=java.lang.String\ getTipo()
+comment4.params=
+comment4.target=java.lang.String\ getDataUltimaCalibracao()
+comment5.params=
+comment5.target=boolean\ isEmFuncionamento()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=emFuncionamento
+comment7.target=void\ setEmFuncionamento(boolean)
+numComments=8

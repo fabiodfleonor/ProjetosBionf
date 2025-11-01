@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=SistemaGestao
+comment1.params=
+comment1.target=SistemaGestao()
+comment10.params=nomeArquivo
+comment10.target=void\ salvarDados(java.lang.String)
+comment11.params=nomeArquivo
+comment11.target=SistemaGestao\ carregarDados(java.lang.String)
+comment12.params=
+comment12.target=void\ gerarRelatorioExperiencias()
+comment2.params=experiencia
+comment2.target=void\ adicionarExperiencia(Experiencia)
+comment3.params=equipamento
+comment3.target=void\ adicionarEquipamento(Equipamento)
+comment4.params=investigador
+comment4.target=void\ adicionarInvestigador(Investigador)
+comment5.params=nome
+comment5.target=Experiencia\ buscarExperienciaPorNome(java.lang.String)
+comment6.params=termo
+comment6.target=void\ pesquisarInvestigador(java.lang.String)
+comment7.params=termo
+comment7.target=void\ pesquisarEquipamento(java.lang.String)
+comment8.params=id
+comment8.target=Investigador\ pesquisarInvestigadorPorId(java.lang.String)
+comment9.params=
+comment9.target=java.util.List\ getExperiencias()
+numComments=13
